@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+
+<head>
+
+<style>
+
+    /* CSS */
+    body{
+ background-color:#33ffcc;
+ }
+ 
+    h1{
+     margin-top:20px;
+     border: dashed 10px #2d2;
+     border-radius:15px;
+     background-color: #2d2;
+ }
+ 
+    p{
+     background-color: #ccff00;
+     font-size:18pt;
+     padding:10px;
+     border: solid #ddff00 1px;
+     border-radius: 15px;
+     }
+ 
+    div{
+     background-color:#33aaff;
+     padding:10px;
+     font-size:18pt;
+     font-weight:700;
+     border: solid 1px #33aaff;
+     border-radius: 15px;
+    }
+</style>
+
+</head>
+
+<!-- HTML -->
+<body align="center">
+ <h1> 🌐HTML && CSS🌐
+</h1>
+ 
+ 
+ 
+<script>
+// JAVASCRIPT
+ document.write("<p><i>Javascript</i></p>");
+</script>
+ 
+</body>
+
+<?php
+   // PHP
+   echo "<div>PHP</div>";
+?>
